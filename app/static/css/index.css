@@ -1,0 +1,22 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	background: url('../img/background.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.h1, h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+jumbotron{
+	
+}
+
+form{
+	max-width: 600px;
+}
+
